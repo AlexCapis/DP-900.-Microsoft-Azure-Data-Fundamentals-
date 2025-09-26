@@ -19,6 +19,17 @@ Más info oficial 👉 [Microsoft Certified: Azure Data Fundamentals](https://le
 
 ---
 
+## 📜 Certificación obtenida
+
+Este repositorio está creado a partir de la experiencia personal al preparar y aprobar el examen **Microsoft Azure Data Fundamentals (DP-900)**.  
+
+Aquí puedes consultar la certificación oficial:  
+[Credencial de Microsoft DP-900](https://www.credly.com/earner/earned/badge/a31f6ca7-4625-441b-8710-e9e1bc1f7693)  
+
+El objetivo es ayudar a más personas a certificarse compartiendo preguntas prácticas, consejos y recursos de estudio.
+
+---
+
 ## 📝 Consejos de estudio
 
 - Comprende la diferencia entre **OLTP y OLAP**.  
